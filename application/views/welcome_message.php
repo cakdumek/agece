@@ -12,8 +12,7 @@ $sitename = ucwords($sitename, '.');
 <!doctype html>
 <html lang="en">
 <head>
-<!--ads/auto.txt-->
-	<!-- Required meta tags -->
+	<meta name="google-site-verification" content="2i1i7LiEoQQh7mxObz1qk9L4hu7_D-nR2qDKV_Ww_78" />
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta content='index,follow' name='robots'/>
