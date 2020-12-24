@@ -1,4 +1,4 @@
-<?php $domain = 'http://' . $_SERVER['HTTP_HOST'];?>
+<?php $domain = 'https://' . $_SERVER['HTTP_HOST'];?>
 <?php
 header("Content-Type: text/plain");
 echo"User-agent: *
