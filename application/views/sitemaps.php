@@ -14,16 +14,36 @@ $domen = ucwords($domen, '.');
     <title>Sitemaps Of <?php echo ucwords($domen);?></title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <script>
-  //<![CDATA[
-var ars = 'https://www.cakdum.com';
-
-if(['.google.', 'bing.', 'yandex.', 'facebook.', 'pinterest.'].some(s => document.referrer.toLowerCase().includes(s)) || ['fb', 'facebook', 'pinterest', 'twitter'].some(s => navigator.userAgent.toLowerCase().includes(s))){ window.location.href = ars + '/?arsae='+ encodeURIComponent(window.location.href) + '&arsae_ref='+ encodeURIComponent(document.referrer) }
-//]]>
-</script>
-<!--ads/auto.txt-->
-
-    <!-- Bootstrap CSS -->
+    <meta content='index,follow' name='robots'/>
+    <meta Content='snippet' name='googlebot'/>
+    <meta content='en' name='language'/>
+    <meta content='ID, US, CA, UK, FR, ES, JP, CN , DE' name='geo.country'/>
+    <meta content='Indonesia, United States, Canada, United Kingdom, France, Espana, Japan, China, Germany' name='geo.placename'/>
+    <meta content='2 days' name='revisit-after'/>
+    <meta content='2 days' name='revisit'/>
+    <meta content='never' name='expires'/>
+    <meta content='always' name='revisit'/>
+    <meta content='global' name='distribution'/>
+    <meta content='general' name='rating'/>
+    <meta content='follow, all' name='Googlebot-Image'/>
+    <meta content='follow, all' name='Scooter'/>
+    <meta content='follow, all' name='msnbot'/>
+    <meta content='follow, all' name='alexabot'/>
+    <meta content='follow, all' name='Slurp'/>
+    <meta content='follow, all' name='ZyBorg'/>
+    <meta content='follow, all' name='Scooter'/>
+    <meta content='ALL' name='SPIDERS'/>
+    <meta content='ALL' name='WEBCRAWLERS'/>
+    <meta content='1, 2, 3, 10, 11, 12, 13, ATF' name='serps'/>
+    <meta content='Aeiwi, Alexa, AllTheWeb, AltaVista, AOL Netfind, Anzwers, Canada, DirectHit, EuroSeek, Excite, Overture, Go, Google, HotBot. InfoMak, Kanoodle, Lycos, MasterSite, National Directory, Northern Light, SearchIt, SimpleSearch, WebsMostLinked, WebTop, What-U-Seek, AOL, Yahoo, WebCrawler, Infoseek, Excite, Magellan, LookSmart, CNET, Googlebot' name='search engines'/>
+    <meta content=' ' property='fb:app_id'/>
+    <meta content=' ' property='fb:admins'/>
+    <meta content=' ' name='twitter:site'/>
+    <meta content=' ' name='twitter:creator'/>
+    <meta content=' ' name='msvalidate.01'/>
+    <meta content=' ' name='alexaVerifyID'/>
+    <meta content='index.php' name='Author'/>
+    <meta content='all' name='robots'/>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha256-L/W5Wfqfa0sdBNIKN9cG6QA5F2qx4qICmU2VgLruv9Y=" crossorigin="anonymous" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/css/lightbox.min.css" integrity="sha256-tBxlolRHP9uMsEFKVk+hk//ekOlXOixLKvye5W2WR5c=" crossorigin="anonymous" />
     <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">  
