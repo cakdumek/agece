@@ -1,5 +1,4 @@
 RewriteEngine On
-RewriteBase /
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^(.*)$ index.php/$1 [L]
@@ -8,6 +7,5 @@ RewriteRule ^sitemap.xml$ sitemap.php
 RewriteRule ^robots.txt$ robots.php
 RewriteRule ^sitemaps.html$ sitemaps.php
 
-#RewriteEngine On
 #RewriteCond %{HTTPS} off
 #RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
