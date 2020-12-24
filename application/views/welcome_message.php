@@ -12,7 +12,6 @@ $sitename = ucwords($sitename, '.');
 <!doctype html>
 <html lang="en">
 <head>
-	<meta name="google-site-verification" content="2i1i7LiEoQQh7mxObz1qk9L4hu7_D-nR2qDKV_Ww_78" />
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta content='index,follow' name='robots'/>
@@ -37,6 +36,7 @@ $sitename = ucwords($sitename, '.');
 	<meta content='ALL' name='WEBCRAWLERS'/>
 	<meta content='1, 2, 3, 10, 11, 12, 13, ATF' name='serps'/>
 	<meta content='Aeiwi, Alexa, AllTheWeb, AltaVista, AOL Netfind, Anzwers, Canada, DirectHit, EuroSeek, Excite, Overture, Go, Google, HotBot. InfoMak, Kanoodle, Lycos, MasterSite, National Directory, Northern Light, SearchIt, SimpleSearch, WebsMostLinked, WebTop, What-U-Seek, AOL, Yahoo, WebCrawler, Infoseek, Excite, Magellan, LookSmart, CNET, Googlebot' name='search engines'/>
+	<meta name="google-site-verification" content="20XuMrNRlX-YLS0XbH8z88i6U1MNV6sNI4nHyMbaF1c" />
 	<meta content=' ' property='fb:app_id'/>
 	<meta content=' ' property='fb:admins'/>
 	<meta content=' ' name='twitter:site'/>
