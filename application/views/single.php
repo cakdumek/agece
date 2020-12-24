@@ -70,7 +70,7 @@ body,html{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px
 	<header class="bg-white fixed-top">			
 		<nav class="navbar navbar-light bg-white mb-0">
 			<div class="container justify-content-center justify-content-sm-between">	
-			  <a href="/" title="<?=$domen?>" class="navbar-brand mb-1"><?=$domen?></a>
+			  <a href="/" title="<?=$sitename?>" class="navbar-brand mb-1"><?=$sitename?></a>
 			  <form class="form-inline mb-1" action="/" method="get">
 			    <input class="form-control mr-sm-2" type="search" name="q" placeholder="Search and hit enter.." aria-label="Search">
 			  </form>	

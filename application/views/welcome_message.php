@@ -7,6 +7,7 @@ $title = ucwords($title);
 $domen = $_SERVER['HTTP_HOST'];
 $domen = ucwords($domen);
 $sitename = $_SERVER['HTTP_HOST'];
+$sitename = str_replace(['.','herokuapp','com'], '', $sitename);
 $sitename = ucwords($sitename, '.');
 ?>
 <!doctype html>
