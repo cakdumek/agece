@@ -50,12 +50,12 @@ function BingText($url){
 	<meta content='ALL' name='WEBCRAWLERS'/>
 	<meta content='1, 2, 3, 10, 11, 12, 13, ATF' name='serps'/>
 	<meta content='Aeiwi, Alexa, AllTheWeb, AltaVista, AOL Netfind, Anzwers, Canada, DirectHit, EuroSeek, Excite, Overture, Go, Google, HotBot. InfoMak, Kanoodle, Lycos, MasterSite, National Directory, Northern Light, SearchIt, SimpleSearch, WebsMostLinked, WebTop, What-U-Seek, AOL, Yahoo, WebCrawler, Infoseek, Excite, Magellan, LookSmart, CNET, Googlebot' name='search engines'/>
-	<meta content=' ' property='fb:app_id'/>
-	<meta content=' ' property='fb:admins'/>
-	<meta content=' ' name='twitter:site'/>
-	<meta content=' ' name='twitter:creator'/>
-	<meta content=' ' name='msvalidate.01'/>
-	<meta content=' ' name='alexaVerifyID'/>
+	<meta content='' property='fb:app_id'/>
+	<meta content='' property='fb:admins'/>
+	<meta content='@Wikipedia' name='twitter:site'/>
+	<meta content='@Wikipedia' name='twitter:creator'/>
+	<meta content='' name='msvalidate.01'/>
+	<meta content='' name='alexaVerifyID'/>
 	<meta content='index.php' name='Author'/>
 	<meta content='all' name='robots'/>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha256-L/W5Wfqfa0sdBNIKN9cG6QA5F2qx4qICmU2VgLruv9Y=" crossorigin="anonymous" />
