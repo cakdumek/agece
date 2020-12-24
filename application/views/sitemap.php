@@ -13,13 +13,16 @@ $interval = -1; //interval -5 jam ke belakang
 ?>
 <url>
     <loc><?=$agc_url?></loc>
+    <lastmod><?php echo date("Y-m-d\TH:m:s+00:00", getTanggal($interval * $interval));?></lastmod>
  </url>
  <url>
     <loc><?=$agc_url."/"."p"."/"."sitemaps".$suffix_url?></loc>
+    <lastmod><?php echo date("Y-m-d\TH:m:s+00:00", getTanggal($interval * $interval));?></lastmod>
  </url>
 <?php foreach ($keywords as $kw): ?>
   <url>
     <loc><?=$agc_url."/".slugify($kw).$suffix_url?></loc>
+    <lastmod><?php echo date("Y-m-d\TH:m:s+00:00", getTanggal($interval * $interval));?></lastmod>
   </url>
 <?php endforeach ?>
 </urlset>
